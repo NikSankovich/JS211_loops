@@ -1,0 +1,20 @@
+{
+  "name": "js211_loops",
+  "version": "1.0.0",
+  "description": "Staying in the loop!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikSankovich/JS211_loops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikSankovich/JS211_loops/issues"
+  },
+  "homepage": "https://github.com/NikSankovich/JS211_loops#readme"
+}
